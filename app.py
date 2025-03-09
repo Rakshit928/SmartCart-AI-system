@@ -61,7 +61,6 @@ st.markdown("""
 
 # Sidebar
 with st.sidebar:
-    st.image("https://raw.githubusercontent.com/yourusername/smartcart-demo/main/logo.png", width=200)
     st.title("SmartCart AI")
     st.subheader("Inventory & Demand Prediction")
     
