@@ -8,3 +8,6 @@ SmartCart is an intelligent inventory management and demand forecasting system d
 2. **Inventory Optimization System**: Calculates optimal inventory levels across stores to reduce stockout rate to 2.4%
 3. **Customer Segmentation**: K-means clustering to identify behavior patterns for personalized recommendations
 4. **Real-time Analytics Dashboard**: Interactive Streamlit dashboard for data visualization and decision support
+
+
+Live Link: https://smartcart-ai-system-zepto.streamlit.app/
